@@ -1,0 +1,9 @@
+KNN [K nearest neighbours]
+- Simple machine learning algorithm
+- Used for classification and regression
+- Supervised learning
+- majority vote
+- No training O(1)
+- All the work happens at quesfy times, for each query O(nlogn)
+- non-Parametric
+- Also used as Baseline algorithm, while devising new algorithm should give better accuracy
